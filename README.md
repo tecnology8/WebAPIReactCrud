@@ -10,6 +10,9 @@
 
 [![Screenshot-2024-05-15-185450.png](https://i.postimg.cc/t4dsKnj5/Screenshot-2024-05-15-185450.png)](https://postimg.cc/XrJNFJXG)
 
+# FrontEnd App
+- Link : https://github.com/tecnology8/react-empleado 
+
 # Tecnologias Usadas
 - Asp.Net Core (.NET 8.0)
 - React 18
