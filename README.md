@@ -11,23 +11,23 @@
 [![Screenshot-2024-05-15-185450.png](https://i.postimg.cc/t4dsKnj5/Screenshot-2024-05-15-185450.png)](https://postimg.cc/XrJNFJXG)
 
 # Tecnologias Usadas
-Asp.Net Core (.NET 8.0)
-React 18
-TypeScript
-MS SQL SERVER
-Entity Framework Core SqlServer 
-Entity Framework Core Tools
+- Asp.Net Core (.NET 8.0)
+- React 18
+-  TypeScript
+- MS SQL SERVER
+- Entity Framework Core SqlServer 
+- Entity Framework Core Tools
 
 # Backend
-Entities
-Swagger
+- Entities
+- Swagger
 
 # FrontEnd
-React 18
+- React 18
 
 # Libraries
-Bootstrap
-React Dom
-Reactstrap
-React Router Dom
-SweetAlert2
+- Bootstrap
+- React Dom
+- Reactstrap
+- React Router Dom
+- SweetAlert2
